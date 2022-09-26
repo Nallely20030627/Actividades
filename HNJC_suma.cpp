@@ -4,12 +4,12 @@ using namespace std;
 int main()
 {
 
- float x,y,z;
- cout<<"Ingrese 2 numero x y :";
- cin>>x>>y;
- z=x+y;
+ float HNJC_x,HNJC_y,HNJC_z;
+ cout<<"Ingrese 2 numero HNJC_x HNJC_y :";
+ cin>>HNJC_x>>HNJC_y;
+ HNJC_z=HNJC_x+HNJC_y;
  cout<<"El resutado es : ";
- cout<<z<<endl;
+ cout<<HNJC_z<<endl;
 
  return 0;
 
